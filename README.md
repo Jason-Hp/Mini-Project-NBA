@@ -35,8 +35,8 @@ The presentation video can be viewed here
      - True Postivie Rate: 0.40
      - True Negative Rate: 0.94
 ## Conclusion, Data-driven insights & Recommendations
--Data-driven insights 
--Recommendations
+- Data-driven insights 
+- Recommendations
 ## New Learning...
 - Point-Biserial Correlation, Cramer's V, phi's coefficient & P-value
 - Time-series
