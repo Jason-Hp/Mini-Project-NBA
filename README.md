@@ -44,9 +44,9 @@ The presentation video can be viewed here
 - Random Forest Model
 - Cost...vector
 ## References
--https://www.statology.org/phi-coefficient/
--https://www.statology.org/point-biserial-correlation-python/
--https://www.geeksforgeeks.org/how-to-calculate-cramers-v-in-python/
--https://pandas.pydata.org/docs/getting_started/intro_tutorials/09_timeseries.html
+- https://www.statology.org/phi-coefficient/
+- https://www.statology.org/point-biserial-correlation-python/
+- https://www.geeksforgeeks.org/how-to-calculate-cramers-v-in-python/
+- https://pandas.pydata.org/docs/getting_started/intro_tutorials/09_timeseries.html
 
  
