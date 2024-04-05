@@ -8,7 +8,7 @@ Hence, we decided to analyse the past few season regular season data below.
 - Can we use Machine Learning techniques to predict NBA Champion using regular season data?
 ## Group Members (To be placed below and also add grp number lab...)
 - Ho Shang Ji Jason - Data Preperation & Cleaning, Exploratory Data Analysis, Multi-variate Classification Tree, Presentor
-- Xue Hao
+- Xue Hao - 
 - Gupta Mannan
 ## Dataset used
 The dataset used can be downloaded here
@@ -34,6 +34,10 @@ The presentation video can be viewed here
      - Average Classification Accuracy: 0.91
      - True Postivie Rate: 0.40
      - True Negative Rate: 0.94
+    - Random Forrest
+      - here1
+    - Vector ML
+      - here 2
 ## Conclusion, Data-driven insights & Recommendations
 - Data-driven insights 
 - Recommendations
