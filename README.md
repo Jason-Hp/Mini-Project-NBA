@@ -58,7 +58,9 @@ The presentation video can be viewed here
     - High WIN%
   - For players who have high WIN%, another parameter to look into would be the looking into their WIN Shares, which can tell us more about a player's ability to contribute to winning
 ## New Learning points
-- Point-Biserial Correlation, Cramer's V, phi's coefficient & P-value
+- Point-Biserial Correlation
+- Cramer's V, phi's coefficient
+- P-value
 - Time-series
 - Deal with imbalance data (Resampling)
 - Random Forest Model
