@@ -65,9 +65,9 @@ The presentation video can be viewed here
 - Cost-Sensitive Support Vector Machine
 
 ## Group Members (FCSA, Group 4)
-- Ho Shang Ji Jason - Data Preperation & Cleaning, Exploratory Data Analysis, Multivariate Classification Tree, Presentor
-- Xue Hao - Data Preperation & Cleaning, Random Forest, Presentor
-- Gupta Mannan - Cost-Sensitive Support Vector Machine, Presentor
+- Ho Shang Ji Jason - Data Preperation & Cleaning, Exploratory Data Analysis, Multivariate Classification Tree, Presentation Slides, Presenter
+- Xue Hao - Data Preperation & Cleaning, Random Forest, Presentation Slides, Presenter
+- Gupta Mannan - Cost-Sensitive Support Vector Machine, Presentation Slides, Presenter
 
 ## References
 - https://www.statology.org/phi-coefficient/
