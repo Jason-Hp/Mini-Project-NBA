@@ -6,10 +6,6 @@ Hence, we decided to analyse the past few season regular season data below.
 - Which variables from the regular season have a relationship with whether the team becomes/is a NBA Champion?
 - Is there a change in a team's playstyle over the seasons?
 - Can we use Machine Learning techniques to predict NBA Champion using regular season data?
-## Group Members (To be placed below and also add grp number lab...)
-- Ho Shang Ji Jason - Data Preperation & Cleaning, Exploratory Data Analysis, Multi-variate Classification Tree, Presentor
-- Xue Hao - 
-- Gupta Mannan
 ## Dataset used
 The dataset used can be downloaded here
 ## Presentation
@@ -35,22 +31,51 @@ The presentation video can be viewed here
      - True Postivie Rate: 0.40
      - True Negative Rate: 0.94
     - Random Forrest
-      - here1
-    - Vector ML
-      - here 2
+      - All variables (Except Champion)
+      - Average Classification Accuracy: 0.85
+      - True Postivie Rate: 0.67
+      - True Negative Rate: 0.33
+    - Cost-Sensitive Support Vector Machine
+      - Best 10 variables (Predictors)
+      - Average Classification Accuracy: 0.98
+      - F1-score: 0.98
+      - Recall: 0.98 & 1.00
 ## Conclusion, Data-driven insights & Recommendations
-- Data-driven insights 
+- Data Driven Insights
+  - The higher these variables, the better odds of being Champion:
+    - FG%,WIN%,3P%,2P%,AST,BLK,STL,DRB
+  - Having the MVP and having high ranking also does positively impact being Champion
+  - From our models, we seen that the most important variable is WIN%
+  - From all 3 models, our Cost-Sensitive Support Vector Machine performed the best while Multivariate Classification Tree performed the worst
 - Recommendations
-## New Learning...
+  - We would obviously recommend using our SVM model when prediciting NBA Champion
+  - Teams should seek out players who are:
+    - More likely to be MVP
+    - Shoot efficiently
+    - Able to attack the rim
+    - Taller side
+    - Longer Wingspan
+    - High WIN%
+  - For players who have high WIN%, another parameter to look into would be the looking into their WIN Shares, which can tell us more about a player's ability to contribute to winning
+## New Learning points
 - Point-Biserial Correlation, Cramer's V, phi's coefficient & P-value
 - Time-series
 - Deal with imbalance data (Resampling)
 - Random Forest Model
-- Cost...vector
+- Cost-Sensitive Support Vector Machine
+
+## Group Members (FCSA, Group 4)
+- Ho Shang Ji Jason - Data Preperation & Cleaning, Exploratory Data Analysis, Multivariate Classification Tree, Presentor
+- Xue Hao - Data Preperation & Cleaning, Random Forest, Presentor
+- Gupta Mannan - Cost-Sensitive Support Vector Machine, Presentor
+
 ## References
 - https://www.statology.org/phi-coefficient/
 - https://www.statology.org/point-biserial-correlation-python/
 - https://www.geeksforgeeks.org/how-to-calculate-cramers-v-in-python/
 - https://pandas.pydata.org/docs/getting_started/intro_tutorials/09_timeseries.html
+- https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html
+- https://scikit-learn.org/stable/modules/svm.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
  
