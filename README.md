@@ -14,7 +14,7 @@ The presentation video can be viewed here
 1. Data preperation & cleaning
    - Fill in all NULL values
    - One-hot encode a few categorical variables
-   - Feature Engineering?
+   - Feature Engineering
    - Remove insignificant columns (variables)
    - Standardize decimal places & team names
 2. Visualization & Exploratory Data Analysis
