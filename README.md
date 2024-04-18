@@ -11,7 +11,7 @@ The dataset used can be downloaded [here](https://github.com/Jason-Hp/SC1015-Min
 ## Presentation 📹
 The presentation video can be viewed [here](https://drive.google.com/file/d/1x4riJ3yn1-l3OWNkRCz0mhO2cC4el9vz/view?usp=sharing)
 ## Brief Details Of Notebook 📚
-1. Data preperation & cleaning 🧹
+1. Data preparation & cleaning 🧹
    - Fill in all NULL values
    - One-hot encode a few categorical variables
    - Feature Engineering
@@ -67,8 +67,8 @@ The presentation video can be viewed [here](https://drive.google.com/file/d/1x4r
 - Cost-Sensitive Support Vector Machine
 
 ## Group Members (FCSA, Group 4)
-- Ho Shang Ji Jason - Data Preperation & Cleaning, Exploratory Data Analysis, Multivariate Classification Tree, Presentation Slides, Presenter
-- Zou XueHao - Data Preperation & Cleaning, Random Forest, Presentation Slides, Presenter
+- Ho Shang Ji Jason - Data Preparation & Cleaning, Exploratory Data Analysis, Multivariate Classification Tree, Presentation Slides, Presenter
+- Zou XueHao - Data Preparation & Cleaning, Random Forest, Presentation Slides, Presenter
 - Gupta Mannan Mithun - Cost-Sensitive Support Vector Machine, Presentation Slides, Presenter
 
 ## References
