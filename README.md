@@ -9,7 +9,7 @@ Hence, we decided to analyse the past few season regular season data below.
 ## Dataset used 📊
 The dataset used can be downloaded [here](https://github.com/Jason-Hp/SC1015-Mini-Project-NBA/blob/a30e139d5a7003d36726b341eb7636852126e224/Dataset/NBAdata.csv)
 ## Presentation 📹
-The presentation video can be viewed [here](https://drive.google.com/file/d/1hk2aCXZDgVOtjFMimelOOQCukUvmCWx-/view?usp=drive_link)
+The presentation video can be viewed [here](https://drive.google.com/file/d/1x4riJ3yn1-l3OWNkRCz0mhO2cC4el9vz/view?usp=sharing)
 ## Brief Details Of Notebook 📚
 1. Data preperation & cleaning 🧹
    - Fill in all NULL values
