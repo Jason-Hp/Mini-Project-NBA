@@ -7,7 +7,7 @@ Hence, we decided to analyse the past few season regular season data below.
 - Is there a change in a team's playstyle over the seasons?
 - Can we use Machine Learning techniques to predict NBA Champion using regular season data?
 ## Dataset used
-The dataset used can be downloaded here
+The dataset used can be downloaded [here](https://github.com/Jason-Hp/SC1015-Mini-Project-NBA/blob/a30e139d5a7003d36726b341eb7636852126e224/Dataset/NBAdata.csv)
 ## Presentation
 The presentation video can be viewed here
 ## Brief Details Of Notebook
