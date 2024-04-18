@@ -1,23 +1,23 @@
-# SC1015-Mini-Project-NBA
+# SC1015-Mini-Project-NBA 🏀
 A mini project for SC1015 Introduction to Data Science and Artificial Intelligence. We wanted to see if the regular season information can predict NBA champion.
 Hence, we decided to analyse the past few season regular season data below.
 
-## Problem Definition
+## Problem Definition 📝
 - Which variables from the regular season have a relationship with whether the team becomes/is a NBA Champion?
 - Is there a change in a team's playstyle over the seasons?
 - Can we use Machine Learning techniques to predict NBA Champion using regular season data?
-## Dataset used
+## Dataset used 📊
 The dataset used can be downloaded [here](https://github.com/Jason-Hp/SC1015-Mini-Project-NBA/blob/a30e139d5a7003d36726b341eb7636852126e224/Dataset/NBAdata.csv)
-## Presentation
+## Presentation 📹
 The presentation video can be viewed [here](https://drive.google.com/file/d/1hk2aCXZDgVOtjFMimelOOQCukUvmCWx-/view?usp=drive_link)
-## Brief Details Of Notebook
-1. Data preperation & cleaning
+## Brief Details Of Notebook 📚
+1. Data preperation & cleaning 🧹
    - Fill in all NULL values
    - One-hot encode a few categorical variables
    - Feature Engineering
    - Remove insignificant columns (variables)
    - Standardize decimal places & team names
-2. Visualization & Exploratory Data Analysis
+2. Visualization & Exploratory Data Analysis 📈
    - Box-plots, Swarm-plots & Violin-plots
    - Point-Biserial Correlation Coefficient & P-value
    - Paired vertical column plots
@@ -25,22 +25,22 @@ The presentation video can be viewed [here](https://drive.google.com/file/d/1hk2
    - Time-series plot
    - Cramer's V, phi coefficient & P-value
 3. Machine Learning
-   - Multi-variate Classification Tree
+   - Multi-variate Classification Tree 🌲
      - Best 10 variables (Predictors)
      - Average Classification Accuracy: 0.91
      - True Postivie Rate: 0.40
      - True Negative Rate: 0.94
-    - Random Forrest
+    - Random Forrest 🌳🌳🌳
       - All variables (Except Champion)
       - Average Classification Accuracy: 0.85
       - True Postivie Rate: 0.67
       - True Negative Rate: 0.33
-    - Cost-Sensitive Support Vector Machine
+    - Cost-Sensitive Support Vector Machine 🔍
       - Best 10 variables (Predictors)
       - Average Classification Accuracy: 0.98
       - F1-score: 0.98
       - Recall: 0.98 & 1.00
-## Conclusion, Data-driven insights & Recommendations
+## Conclusion, Data-driven insights & Recommendations 🏁
 - Data Driven Insights
   - The higher these variables, the better odds of being Champion:
     - FG%,WIN%,3P%,2P%,AST,BLK,STL,DRB
@@ -57,7 +57,7 @@ The presentation video can be viewed [here](https://drive.google.com/file/d/1hk2
     - Longer Wingspan
     - High WIN%
   - For players who have high WIN%, another parameter to look into would be the looking into their WIN Shares, which can tell us more about a player's ability to contribute to winning
-## New Learning points
+## New Learning points 🧠
 - Point-Biserial Correlation
 - Cramer's V, phi's coefficient
 - P-value
