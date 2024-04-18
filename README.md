@@ -1,4 +1,7 @@
 # SC1015-Mini-Project-NBA 🏀
+
+FCSA Team 4
+
 A mini project for SC1015 Introduction to Data Science and Artificial Intelligence. We wanted to see if the regular season information can predict NBA champion.
 Hence, we decided to analyse the past few season regular season data below.
 
