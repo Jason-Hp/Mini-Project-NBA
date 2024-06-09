@@ -70,7 +70,7 @@ The presentation video can be viewed [here](https://drive.google.com/file/d/1x4r
 - Cost-Sensitive Support Vector Machine
 
 ## Group Members (FCSA, Group 4)
-- Ho Shang Ji Jason - Data Preparation & Cleaning, Exploratory Data Analysis, Multivariate Classification Tree, Presentation Slides, Presenter
+- Ho Shang Ji Jason - Data Preparation & Cleaning, Exploratory Data Analysis, Multivariate Classification Tree, Cost-Sensitive Support Vector Machine, Presentation Slides, Presenter
 - Zou XueHao - Data Preparation & Cleaning, Random Forest, Presentation Slides, Presenter
 - Gupta Mannan Mithun - Cost-Sensitive Support Vector Machine, Presentation Slides, Presenter
 
