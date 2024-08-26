@@ -65,6 +65,11 @@ The dataset used can be downloaded [here](https://github.com/Jason-Hp/SC1015-Min
 - Random Forest Model
 - Cost-Sensitive Support Vector Machine
 
+## Contributors
+- Ho Shang Ji Jason - Data Preparation & Cleaning, Exploratory Data Analysis, Multivariate Classification Tree, Cost-Sensitive Support Vector Machine, Presentation Slides, Presenter
+- Zou XueHao - Data Preparation & Cleaning, Random Forest, Presentation Slides, Presenter
+- Gupta Mannan Mithun - Cost-Sensitive Support Vector Machine, Presentation Slides, Presenter
+
 ## References
 - https://www.statology.org/phi-coefficient/
 - https://www.statology.org/point-biserial-correlation-python/
@@ -73,5 +78,6 @@ The dataset used can be downloaded [here](https://github.com/Jason-Hp/SC1015-Min
 - https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html
 - https://scikit-learn.org/stable/modules/svm.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+  
 
  
