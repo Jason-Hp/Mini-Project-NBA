@@ -1,8 +1,6 @@
-# SC1015-Mini-Project-NBA 🏀
+# Mini-Project-NBA 🏀
 
-FCSA Team 4
-
-A mini project for SC1015 Introduction to Data Science and Artificial Intelligence. We wanted to see if the regular season information can predict NBA champion.
+A small project. We wanted to see if the regular season information can predict NBA champion.
 Hence, we decided to analyse the past few season regular season data below.
 
 ## Problem Definition 📝
@@ -68,11 +66,6 @@ The presentation video can be viewed [here](https://drive.google.com/file/d/1x4r
 - Deal with imbalance data (Resampling)
 - Random Forest Model
 - Cost-Sensitive Support Vector Machine
-
-## Group Members (FCSA, Group 4)
-- Ho Shang Ji Jason - Data Preparation & Cleaning, Exploratory Data Analysis, Multivariate Classification Tree, Cost-Sensitive Support Vector Machine, Presentation Slides, Presenter
-- Zou XueHao - Data Preparation & Cleaning, Random Forest, Presentation Slides, Presenter
-- Gupta Mannan Mithun - Cost-Sensitive Support Vector Machine, Presentation Slides, Presenter
 
 ## References
 - https://www.statology.org/phi-coefficient/
